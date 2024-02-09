@@ -16,7 +16,7 @@ int main()
         cin >> arr[i];
     }
 
-    //searching large element in array
+    //searching large and small element in array
 
     int large  = arr[0];
     int small = arr[0];
